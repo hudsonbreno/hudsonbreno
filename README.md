@@ -2,7 +2,9 @@
 ## Meu nome é Breno Hudson
 ### Esse é meu espaço Nerd
 
-#### Esse lugar ta crescendo, desenvolvendo vários projetos, mal posso esparar para o proximo commit de algum projeto. Bora pra cima 🚀
+#### Esse lugar ta crescendo, desenvolvendo vários projetos, mal posso esparar para o proximo commit de algum projeto.
+#### Estou na área da programação a tanto tempo, ja programei em Fortran. Mas as tecnologias avançam e hoje estou utilizando de Typescript e outros 
+ Bora pra cima 🚀
 
 <div>
   <a href="https://github.com/hudsonbreno">
@@ -16,6 +18,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg">
   <img align="right" alt="Luffy-pic" height="150" style="border-radius:50;" src="https://i.pinimg.com/originals/fd/5c/fa/fd5cfa2b8bba6784c75d1a48a81e540d.jpg">
+  <img align="right" alt="Luffy-pic" height="150" style="border-radius:50;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
   
 </div>
